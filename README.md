@@ -95,6 +95,9 @@ XXX
 
 XXX
 
+### dialect_packs/modern_botok/dictionary/words/tsikchen.tsv
+
+The modern_botok dictionary was compiled from Christian Steinert's collection, for more details see [this link](https://github.com/Esukhia/botok-data/tree/master/dialect_packs/modern_botok/README.md).
 
 ## License
 

@@ -1,6 +1,6 @@
 # [modern-botok](https://github.com/Divergent-Discourses/modern-botok)
 This repository offers a customised dictionary (dictionary/tsikchen.tsv) and contains an explanation of how to integrate the customised dictionary into BoTok.
-Botok out-of-the-box can tokenize classical Tibetan text or traditional genres, however since it depends on a dictionary for tokenization, lacks capabilities for modern Tibetan, in particular, the language of modern newspapers published in the PRC or on the sub-continent. Adding this customised dictionary adds functionality for modern Tibetan to BoTok.
+Botok out-of-the-box can tokenize classical Tibetan text or traditional genres, however since it depends on a dictionary for tokenization, lacks capabilities for modern Tibetan, in particular, the language of modern newspapers published in the PRC or on the sub-continent. Adding this customised dictionary adds functionality for modern Tibetan to BoTok. The modern-botok dictionary file, [tsikchen.tsv](https://zenodo.org/records/14034747), has also been published on Zenodo.
 
 ## Dictionaries 
 - The modern_botok dictionary was compiled from [Christian Steinert's collection](https://github.com/christiansteinert/tibetan-dictionary/tree/master/_input/dictionaries/public) and contains the following dictionaries: 

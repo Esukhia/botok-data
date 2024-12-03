@@ -97,7 +97,7 @@ XXX
 
 ## dialect_packs: modern_botok
 
-The dictionary of the dialect pack *modern_botok* was compiled from [Christian Steinert's collection](https://github.com/christiansteinert/tibetan-dictionary/tree/master/_input/dictionaries/public), for more details see [this link](https://github.com/Esukhia/botok-data/tree/master/dialect_packs/modern_botok/README.md).
+The dictionary of the dialect pack *modern_botok* was compiled for the [Divergent Discourses](https://github.com/Divergent-Discourses) project from [Christian Steinert's collection](https://github.com/christiansteinert/tibetan-dictionary/tree/master/_input/dictionaries/public), for more details see [this link](https://github.com/Esukhia/botok-data/tree/master/dialect_packs/modern_botok/README.md).
 
 ## License
 
